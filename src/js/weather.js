@@ -18,7 +18,7 @@ function success(pos) {
 
 			document.querySelector('#weather').classList.remove('hidden');
 
-			console.log('data: ', data);
+			//console.log('data: ', data);
 		});
 }
 
